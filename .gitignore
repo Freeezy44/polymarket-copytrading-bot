@@ -1,0 +1,11 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+src/main.py
+
+# Python (if applicable)
+__pycache__/
+*.pyc
+.venv/
+venv/
